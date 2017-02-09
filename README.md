@@ -1,1 +1,1 @@
-# docker-golang-alpine-onbuild
+# docker golang-alpine
